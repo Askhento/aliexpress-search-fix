@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        AliExpress Ultra Efficient
+// @name        AliExpress Search Fix
 // @namespace   Askhento
 // @description Sort Price from Low to High, Put Items in View list All  Automatically
 // @include     http*://*aliexpress.tld/af/*
